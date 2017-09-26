@@ -1,0 +1,10 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="/usr/local/bin/hg" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="hg.yandex-team.ru/balance/trust-frontend-disk" value="dolvik" />
+      </map>
+    </option>
+  </component>
+</application>

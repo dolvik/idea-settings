@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="react" value="import React, {PureComponent} from 'react';&#10;&#10;class $name$ extends PureComponent {&#10;    constructor(props){&#10;        super(props);&#10;        &#10;    }&#10;&#10;    render(){&#10;    &#10;    }&#10;}&#10;&#10;export default $name$;" description="react compoennt" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
