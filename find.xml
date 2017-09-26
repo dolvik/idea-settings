@@ -23,17 +23,17 @@
       <mask>xmliz.py</mask>
       <mask>xmlize.py</mask>
       <mask>xmlizer.py</mask>
-      <mask>*.xsl</mask>
-      <mask>*.xs</mask>
-      <mask>*.x</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.pug</mask>
       <mask>*.pu</mask>
-      <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsl</mask>
     </recentFileMasks>
   </component>
 </application>
