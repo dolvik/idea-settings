@@ -4,12 +4,12 @@
     <extensionMap>
       <mapping ext="yate" type="HTML" />
       <mapping pattern="*.js.snap" type="JavaScript" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="changelog" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping pattern="all" type="YAML" />
     </extensionMap>
   </component>
