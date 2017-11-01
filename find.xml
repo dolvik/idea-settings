@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*py</mask>
       <mask>*p</mask>
@@ -28,12 +31,12 @@
       <mask>*.i</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
+      <mask>*.j</mask>
+      <mask>*.xsl</mask>
+      <mask>*.xs</mask>
+      <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.x</mask>
-      <mask>*.xs</mask>
-      <mask>*.xsl</mask>
     </recentFileMasks>
   </component>
 </application>
