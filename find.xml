@@ -8,10 +8,6 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>x.py</mask>
-      <mask>xm.py</mask>
-      <mask>xml.py</mask>
-      <mask>xmli.py</mask>
       <mask>xmliz.py</mask>
       <mask>xmlize.py</mask>
       <mask>xmlizer.py</mask>
@@ -35,9 +31,13 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*c</mask>
+      <mask>*cg</mask>
+      <mask>*cf</mask>
+      <mask>*cfg</mask>
     </recentFileMasks>
   </component>
 </application>
