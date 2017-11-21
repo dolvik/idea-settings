@@ -7,17 +7,12 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>xmliz.py</mask>
-      <mask>xmlize.py</mask>
-      <mask>xmlizer.py</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>;</mask>
       <mask>*.xso</mask>
-      <mask>*.idl</mask>
-      <mask>*.id</mask>
-      <mask>*.i</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.xsl</mask>
@@ -30,14 +25,20 @@
       <mask>*.yate</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*c</mask>
       <mask>*cg</mask>
-      <mask>*cf</mask>
       <mask>*cfg</mask>
+      <mask>*cf</mask>
+      <mask>*c</mask>
+      <mask>*.idl</mask>
+      <mask>*.id</mask>
+      <mask>*.i</mask>
+      <mask>8</mask>
+      <mask>*py</mask>
+      <mask>*p</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
