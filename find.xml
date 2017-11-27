@@ -2,10 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
       <mask>;</mask>
       <mask>*.xso</mask>
       <mask>*.xsl</mask>
@@ -13,9 +13,6 @@
       <mask>*.pg</mask>
       <mask>*.pug</mask>
       <mask>*.pu</mask>
-      <mask>*.ya</mask>
-      <mask>*.yate</mask>
-      <mask>*.j</mask>
       <mask>*cg</mask>
       <mask>*cfg</mask>
       <mask>*cf</mask>
@@ -32,6 +29,11 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
+      <mask>*.j</mask>
+      <mask>*.yate</mask>
+      <mask>*.yat</mask>
+      <mask>*.ya</mask>
+      <mask>*.y</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
     </recentFileMasks>
