@@ -1,8 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>;</mask>
       <mask>*.xso</mask>
@@ -19,21 +24,21 @@
       <mask>*py</mask>
       <mask>*p</mask>
       <mask>*</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
       <mask>*.idl</mask>
       <mask>*.id</mask>
       <mask>*.i</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.j</mask>
       <mask>*.yate</mask>
       <mask>*.yat</mask>
       <mask>*.ya</mask>
       <mask>*.y</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
