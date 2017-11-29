@@ -3,11 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.xso</mask>
-      <mask>*.xsl</mask>
-      <mask>*.xs</mask>
       <mask>*.pg</mask>
       <mask>*.pug</mask>
       <mask>*.pu</mask>
@@ -24,17 +20,20 @@
       <mask>*.i</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.yate</mask>
       <mask>*.yat</mask>
       <mask>*.ya</mask>
       <mask>*.y</mask>
-      <mask>*.j</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.jsf</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xl</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsl</mask>
     </recentFileMasks>
   </component>
 </application>
