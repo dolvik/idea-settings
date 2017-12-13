@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.xsl" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.pug</mask>
       <mask>*.pu</mask>
@@ -21,13 +21,10 @@
       <mask>*.idl</mask>
       <mask>*.id</mask>
       <mask>*.i</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
       <mask>*.yate</mask>
       <mask>*.yat</mask>
       <mask>*.ya</mask>
       <mask>*.y</mask>
-      <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.jsf</mask>
       <mask>*.xl</mask>
@@ -35,10 +32,13 @@
       <mask>*.j</mask>
       <mask>*</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xs</mask>
       <mask>*.xsl</mask>
+      <mask>*.xs</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
