@@ -3,8 +3,8 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.xsl" />
     <recentFileMasks>
-      <mask>*.pg</mask>
       <mask>*.pug</mask>
       <mask>*.pu</mask>
       <mask>*cg</mask>
@@ -29,11 +29,12 @@
       <mask>*.xl</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.xsl</mask>
-      <mask>*.xs</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsl</mask>
     </recentFileMasks>
   </component>
 </application>
