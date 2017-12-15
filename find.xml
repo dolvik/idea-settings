@@ -2,14 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>*.pug</mask>
-      <mask>*.pu</mask>
-      <mask>*cg</mask>
-      <mask>*cfg</mask>
       <mask>*cf</mask>
       <mask>*c</mask>
       <mask>8</mask>
@@ -18,24 +12,28 @@
       <mask>*.idl</mask>
       <mask>*.id</mask>
       <mask>*.i</mask>
-      <mask>*.yate</mask>
-      <mask>*.yat</mask>
-      <mask>*.ya</mask>
-      <mask>*.y</mask>
-      <mask>*.p</mask>
       <mask>*.jsf</mask>
       <mask>*.xl</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.xsl</mask>
       <mask>*.xs</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.yate</mask>
+      <mask>*.yat</mask>
+      <mask>*.ya</mask>
+      <mask>*.y</mask>
+      <mask>js</mask>
+      <mask>j</mask>
+      <mask>*js</mask>
+      <mask>*j</mask>
+      <mask>*.j</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
