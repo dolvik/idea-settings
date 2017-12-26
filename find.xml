@@ -27,13 +27,13 @@
       <mask>*.</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.xsl</mask>
-      <mask>*.xs</mask>
-      <mask>*.x</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsl</mask>
     </recentFileMasks>
   </component>
 </application>
