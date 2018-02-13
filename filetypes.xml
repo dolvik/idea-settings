@@ -12,6 +12,7 @@
       <mapping pattern=".hgingore" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
+      <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping pattern="all" type="YAML" />
     </extensionMap>
