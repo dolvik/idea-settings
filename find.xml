@@ -2,20 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="muzzle_logic.py" />
     <recentFileMasks>
-      <mask>js</mask>
-      <mask>j</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>servant*</mask>
-      <mask>servant</mask>
-      <mask>servan</mask>
-      <mask>serva</mask>
-      <mask>serv</mask>
-      <mask>ser</mask>
-      <mask>se</mask>
-      <mask>s</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*</mask>
@@ -34,6 +25,18 @@
       <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.py</mask>
+      <mask>.py</mask>
+      <mask>l.py</mask>
+      <mask>lo.py</mask>
+      <mask>logi.py</mask>
+      <mask>logic.py</mask>
+      <mask>malogic.py</mask>
+      <mask>mlogic.py</mask>
+      <mask>mulogic.py</mask>
+      <mask>muzlogic.py</mask>
+      <mask>muzzlogic.py</mask>
+      <mask>muzzlelogic.py</mask>
+      <mask>muzzle_logic.py</mask>
     </recentFileMasks>
   </component>
 </application>
