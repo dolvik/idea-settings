@@ -6,6 +6,7 @@
       <mapping ext="yate" type="HTML" />
       <mapping pattern="*.js.snap" type="JavaScript" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="changelog" type="PLAIN_TEXT" />
       <mapping pattern=".hgrc" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
