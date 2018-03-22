@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
@@ -28,12 +26,14 @@
       <mask>*</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
-      <mask>*.j</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ya</mask>
+      <mask>*.yate</mask>
     </recentFileMasks>
   </component>
 </application>
