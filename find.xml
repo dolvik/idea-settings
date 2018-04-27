@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>l.py</mask>
       <mask>lo.py</mask>
@@ -17,12 +18,9 @@
       <mask>muzzle_logic.py</mask>
       <mask>.</mask>
       <mask>*</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.j</mask>
       <mask>*.yate</mask>
       <mask>*.yat</mask>
       <mask>*.ya</mask>
@@ -32,8 +30,11 @@
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
