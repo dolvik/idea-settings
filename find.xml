@@ -14,8 +14,6 @@
       <mask>muzzlelogic.py</mask>
       <mask>muzzle_logic.py</mask>
       <mask>.</mask>
-      <mask>*</mask>
-      <mask>*.xm</mask>
       <mask>*.yate</mask>
       <mask>*.yat</mask>
       <mask>*.ya</mask>
@@ -27,13 +25,15 @@
       <mask>*.s</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
       <mask>*.xsl</mask>
       <mask>*.xs</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
