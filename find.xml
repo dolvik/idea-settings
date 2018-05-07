@@ -5,10 +5,8 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>logi.py</mask>
-      <mask>logic.py</mask>
-      <mask>malogic.py</mask>
       <mask>mlogic.py</mask>
       <mask>mulogic.py</mask>
       <mask>muzlogic.py</mask>
@@ -32,10 +30,13 @@
       <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xs</mask>
       <mask>*.xsl</mask>
+      <mask>*.xs</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
