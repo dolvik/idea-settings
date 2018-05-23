@@ -1,10 +1,15 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.xsl" />
     <recentFileMasks>
       <mask>mlogic.py</mask>
       <mask>mulogic.py</mask>
@@ -30,12 +35,12 @@
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.xsl</mask>
-      <mask>*.xs</mask>
-      <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsl</mask>
     </recentFileMasks>
   </component>
 </application>
