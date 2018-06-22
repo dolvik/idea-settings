@@ -27,13 +27,13 @@
       <mask>*.p</mask>
       <mask>*.cxx</mask>
       <mask>*.cx</mask>
-      <mask>*.c</mask>
-      <mask>*.xsl</mask>
-      <mask>*.xs</mask>
-      <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsl</mask>
     </recentFileMasks>
   </component>
 </application>
