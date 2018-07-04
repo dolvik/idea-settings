@@ -1,39 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <recentFileMasks>
-      <mask>muzlogic.py</mask>
-      <mask>muzzlogic.py</mask>
-      <mask>muzzlelogic.py</mask>
-      <mask>muzzle_logic.py</mask>
-      <mask>.</mask>
-      <mask>*.yate</mask>
-      <mask>*.yat</mask>
-      <mask>*.ya</mask>
-      <mask>*.ys</mask>
-      <mask>*.y</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.cxx</mask>
-      <mask>*.cx</mask>
-      <mask>*.</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.xs</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.xsl</mask>
-    </recentFileMasks>
   </component>
 </application>
