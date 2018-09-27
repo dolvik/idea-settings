@@ -13,8 +13,8 @@
     <mask>common.xsl</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
-    <mask>*.xsl</mask>
     <mask>*.scss</mask>
     <mask>*.py</mask>
+    <mask>*.xsl</mask>
   </component>
 </application>
