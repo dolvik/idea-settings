@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="78812961-ffb7-4b0c-8b5f-62663d8b6d9a" name="BALANCE-29276" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/teamcity/branches-testing/balance-29276" accessType="SFTP" keyPair="true">
+      <webServer id="78812961-ffb7-4b0c-8b5f-62663d8b6d9a" name="BALANCE-29180" url="http://greed-dev2h.paysys.yandex.net">
+        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/teamcity/branches-testing/balance-29180" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
