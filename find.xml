@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.xsl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,11 +17,11 @@
     <mask>*.mxml</mask>
     <mask>common.xsl</mask>
     <mask>*.js</mask>
-    <mask>*.xsl</mask>
     <mask>*.xml</mask>
     <mask>Makefile</mask>
     <mask>*.scss</mask>
     <mask>*.py</mask>
     <mask>§</mask>
+    <mask>*.xsl</mask>
   </component>
 </application>
