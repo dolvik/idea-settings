@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -18,8 +16,8 @@
     <mask>*.css</mask>
     <mask>*.sql</mask>
     <mask>*.js</mask>
-    <mask>*.xsl</mask>
     <mask>*.py</mask>
     <mask>*.xml</mask>
+    <mask>*.xsl</mask>
   </component>
 </application>
