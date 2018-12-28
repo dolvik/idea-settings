@@ -15,9 +15,9 @@
     <mask>§</mask>
     <mask>*.css</mask>
     <mask>*.sql</mask>
-    <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.xml</mask>
     <mask>*.xsl</mask>
+    <mask>*.js</mask>
   </component>
 </application>
