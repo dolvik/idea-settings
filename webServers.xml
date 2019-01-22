@@ -1,24 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="0ff96298-0741-45c7-8172-5ae3d207a550" name="BALANCE-29372" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/teamcity/branches-testing/balance-29372" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="9fa194f7-fe3f-4476-9cce-600973a5651c" name="BALANCE-29485" url="http://greed-dev2h.paysys.yandex.net">
         <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/teamcity/branches-testing/balance-29485" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="0daab8a5-b3e8-4d34-b52b-0219cbd2c9b1" name="BALANCE-30108" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/teamcity/branches-testing/balance-30108" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
