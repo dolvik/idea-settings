@@ -50,7 +50,15 @@
         </fileTransfer>
       </webServer>
       <webServer id="bc6fabc3-ce9a-419f-96c1-2fb877f75b90" name="RELEASE-2_187" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/robot-billiing-ci/branches-testing/release-2-187" accessType="SFTP" keyPair="true">
+        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/robot-billing-ci/branches-testing/release-2-187" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ae4f500b-22a5-416b-aadd-ad8c881600bd" name="RELEASE-2_188" url="http://greed-dev2h.paysys.yandex.net">
+        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/robot-billing-ci/branches-testing/release-2-188" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
