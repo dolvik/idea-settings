@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,11 +16,11 @@
     <mask>Makefile</mask>
     <mask>*.scss</mask>
     <mask>§</mask>
-    <mask>*.css</mask>
     <mask>*.sql</mask>
     <mask>*.py</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.xsl</mask>
+    <mask>*.css</mask>
   </component>
 </application>
