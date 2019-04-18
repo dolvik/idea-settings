@@ -16,10 +16,10 @@
     <mask>*.scss</mask>
     <mask>§</mask>
     <mask>*.sql</mask>
-    <mask>*.py</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.xsl</mask>
     <mask>*.css</mask>
+    <mask>*.py</mask>
   </component>
 </application>
