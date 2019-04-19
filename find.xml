@@ -18,8 +18,8 @@
     <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
-    <mask>*.xsl</mask>
     <mask>*.css</mask>
     <mask>*.py</mask>
+    <mask>*.xsl</mask>
   </component>
 </application>
