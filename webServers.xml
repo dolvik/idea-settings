@@ -1,40 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="9fa194f7-fe3f-4476-9cce-600973a5651c" name="BALANCE-29485" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/teamcity/branches-testing/balance-29485" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="d99d7f40-b79e-416c-b8e5-89f29fbe6d8e" name="partner-person" url="http://greed-dev2h.paysys.yandex.net">
         <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/robot-billing-ci/branches-testing/partner-person" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="da6b736f-8b97-46d4-856f-96075c363a69" name="BALANCE-30245" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/teamcity/branches-testing/balance-30245" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="db16a448-0790-4552-ba85-37199c1c439c" name="BALANCE-30467" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/teamcity/branches-testing/balance-30467" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="42528bf2-215a-47c9-b76c-f53914665ad1" name="BALANCE-30468" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/teamcity/branches-testing/balance-30468" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -49,48 +17,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="ae4f500b-22a5-416b-aadd-ad8c881600bd" name="RELEASE-2_188" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/robot-billing-ci/branches-testing/release-2-188" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="3e8f5f12-29e2-4551-ad08-6c675efaa03e" name="single_account_paysys" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/robot-billing-ci/branches-testing/single-account-paysys" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="c6cfab97-044c-49d6-b24f-06b7f7726fd4" name="BALANCE-30796" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/robot-billing-ci/branches-testing/balance-30796" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="a8174402-ff5d-419e-ac4c-048a805af600" name="BALANCE-31165" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/robot-billing-ci/branches-testing/balance-31165" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="59088ba7-a38a-467d-b266-6712f019c618" name="BALANCE-31415" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/robot-billing-ci/branches-testing/balance-31415" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="5634378b-c435-4ac1-bba6-ffdd69767e9a" name="BALANCE-31240" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/robot-billing-ci/branches-testing/balance-31240" accessType="SFTP" keyPair="true">
+      <webServer id="eb53254a-49c9-4bf2-af5b-21c63a4533d0" name="BALANCE-31086" url="http://greed-dev2h.paysys.yandex.net">
+        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/robot-billing-ci/branches-testing/balance-31086" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
