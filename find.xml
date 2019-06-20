@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -11,7 +14,6 @@
     <mask>*.mxml</mask>
     <mask>common.xsl</mask>
     <mask>Makefile</mask>
-    <mask>*.scss</mask>
     <mask>§</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
@@ -19,5 +21,6 @@
     <mask>*.py</mask>
     <mask>*.xsl</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
