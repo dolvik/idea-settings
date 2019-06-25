@@ -13,11 +13,11 @@
     <mask>Makefile</mask>
     <mask>§</mask>
     <mask>*.sql</mask>
-    <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.py</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.xsl</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
