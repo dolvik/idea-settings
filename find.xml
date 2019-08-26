@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xsl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,10 +16,10 @@
     <mask>*.sql</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
-    <mask>*.py</mask>
     <mask>*.ts*</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.py</mask>
     <mask>*.xsl</mask>
   </component>
 </application>
