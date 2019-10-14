@@ -20,7 +20,7 @@
     <mask>*.xml</mask>
     <mask>*.py</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.xsl</mask>
+    <mask>*.js</mask>
   </component>
 </application>
