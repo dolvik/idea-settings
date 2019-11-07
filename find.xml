@@ -19,8 +19,8 @@
     <mask>*.py</mask>
     <mask>*.xsl</mask>
     <mask>*.scss</mask>
-    <mask>*.xml</mask>
     <mask>tanker.js</mask>
     <mask>*.tsx</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
