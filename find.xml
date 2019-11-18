@@ -18,10 +18,10 @@
     <mask>*.py</mask>
     <mask>*.tsx</mask>
     <mask>tanker.js</mask>
-    <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.xsl</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
