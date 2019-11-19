@@ -49,8 +49,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="f5fb06d9-289b-4614-b853-36bc9c68a316" name="BALANCE-32783" url="http://greed-dev2h.paysys.yandex.net">
-        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/robot-billing-ci/branches-testing/balance-32873" accessType="SFTP" keyPair="true">
+      <webServer id="f5fb06d9-289b-4614-b853-36bc9c68a316" name="BALANCE-32994" url="http://greed-dev2h.paysys.yandex.net">
+        <fileTransfer host="greed-dev2h.paysys.yandex.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/robot-billing-ci/branches-testing/balance-32994" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
